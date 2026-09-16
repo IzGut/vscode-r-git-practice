@@ -1,0 +1,22 @@
+# ------------------------- 
+# R 
+# ------------------------- 
+.Rhistory 
+.RData 
+.Ruserdata 
+.Rproj.user/ 
+# ------------------------- 
+# Secrets 
+# ------------------------- 
+.Renviron 
+.env 
+# ------------------------- 
+# Large/private data 
+# ------------------------- 
+data/raw/ 
+data/private/ 
+# ------------------------- 
+# Temporary / operating system files 
+# ------------------------- 
+.DS_Store 
+Thumbs.db
